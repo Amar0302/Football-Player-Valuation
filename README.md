@@ -77,4 +77,4 @@ Contributions to the project are welcome! If you have suggestions for improvemen
 
 ## Copyright
 
-This project is protected under default copyright laws; all rights reserved unless otherwise specified.
+This project is licensed under the MIT License - see the LICENSE file for details.
